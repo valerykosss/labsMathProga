@@ -1,0 +1,2 @@
+E:\2 курс БГТУ\матпрога\лабы\лаба4\levensht\Debug\levensht.exe
+E:\2 курс БГТУ\матпрога\лабы\лаба4\levensht\Debug\levensht.pdb
